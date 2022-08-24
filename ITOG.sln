@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITOG", "ITOG\ITOG.csproj", "{310E8786-FA89-44A2-A797-49FAEE58ED53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationItog", "WebApplicationItog\WebApplicationItog.csproj", "{59420BBC-D319-442F-BDF5-1381C428E207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppadminbook", "ConsoleAppitog\ConsoleAppadminbook.csproj", "{8F9C7F0E-D9D3-4048-9302-29847816E3ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppbookdb", "ConsoleAppbookdb\ConsoleAppbookdb.csproj", "{611E5F7A-E38B-428E-B483-B289CFE58D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectitog", "TestProjectitog\TestProjectitog.csproj", "{F6E563FE-8DD2-4C43-958B-AE208A299681}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WpfControlLibraryitog", "WpfControlLibraryitog\WpfControlLibraryitog.vbproj", "{FCEBCCF2-C24C-4ED0-BCFD-606E6A70355A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppitog", "WinFormsAppitog\WinFormsAppitog.csproj", "{4F45B5AE-DE37-4839-8A90-1B0AB84075DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310E8786-FA89-44A2-A797-49FAEE58ED53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310E8786-FA89-44A2-A797-49FAEE58ED53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310E8786-FA89-44A2-A797-49FAEE58ED53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310E8786-FA89-44A2-A797-49FAEE58ED53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59420BBC-D319-442F-BDF5-1381C428E207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59420BBC-D319-442F-BDF5-1381C428E207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59420BBC-D319-442F-BDF5-1381C428E207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59420BBC-D319-442F-BDF5-1381C428E207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9C7F0E-D9D3-4048-9302-29847816E3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9C7F0E-D9D3-4048-9302-29847816E3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9C7F0E-D9D3-4048-9302-29847816E3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9C7F0E-D9D3-4048-9302-29847816E3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611E5F7A-E38B-428E-B483-B289CFE58D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611E5F7A-E38B-428E-B483-B289CFE58D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611E5F7A-E38B-428E-B483-B289CFE58D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611E5F7A-E38B-428E-B483-B289CFE58D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E563FE-8DD2-4C43-958B-AE208A299681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E563FE-8DD2-4C43-958B-AE208A299681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E563FE-8DD2-4C43-958B-AE208A299681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E563FE-8DD2-4C43-958B-AE208A299681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEBCCF2-C24C-4ED0-BCFD-606E6A70355A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEBCCF2-C24C-4ED0-BCFD-606E6A70355A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEBCCF2-C24C-4ED0-BCFD-606E6A70355A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEBCCF2-C24C-4ED0-BCFD-606E6A70355A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F45B5AE-DE37-4839-8A90-1B0AB84075DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F45B5AE-DE37-4839-8A90-1B0AB84075DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F45B5AE-DE37-4839-8A90-1B0AB84075DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F45B5AE-DE37-4839-8A90-1B0AB84075DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3536E1-20D5-4D4A-854F-CEB74D7FE5CA}
+	EndGlobalSection
+EndGlobal
